@@ -6,14 +6,14 @@
 
 For an award of a $10 Chipotle Gift Card, you can choose between two coding challenges:
 1) Using any coding language, write a program that prints the next 20 leap years
-2) Using any languagem write a program that automatically converts English text to Morse Code.
+2) Using any language, write a program that automatically converts English text to Morse Code.
 
 Fewest *lines* wins.
 
-Due: May/1/2020 @ 11:59 PM
+Due: **May/1/2020 @ 11:59 PM**
 
-Assuming that I can only submit one program, I have chosen the leap years problem, as I do not have to store English/Morse Code dictionaries, and have higher potential for a one-liner.
+Assuming that I can only submit one program, I have chosen the leap year problem, because I don't have to store any English/Morse Code dictionaries and thus have a higher potential for fewer bytes.
 
 Additionally, I talked with a friend, and we both believe that this is assuming pretty print style. Otherwise languages without mandatory indentation would win no matter what.
 
-My goal: Try to solve the solution in the fewest bytes. 
+My goal: Try to solve the problem in the fewest bytes. 
