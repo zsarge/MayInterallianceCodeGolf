@@ -1,1 +1,1 @@
-print(list(filter(lambda x:(x%400and x%100<1or x%4)<1,range(2021,2105))))
+print(filter(lambda x:(x%400and x%100<1or x%4)<1,range(2021,2105)))
