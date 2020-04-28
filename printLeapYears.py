@@ -1,1 +1,1 @@
-print(list(filter(None,map(lambda x:x if(x%400and x%100<1or x%4)<1else'',range(2021,2105)))))
+print(list(filter(lambda x:(x%400and x%100<1or x%4)<1,range(2021,2105))))
